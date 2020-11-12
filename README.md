@@ -1,8 +1,14 @@
 # IED-Group4 Introduction
  공학설계입문 Group 4
 
-Group 4 22000075 김민수, 22000201 김한욱, 22000204 김현욱, 22000282 박예은 
-Team leader: 22000075 김민수 Communication: 22000282 박예은 Decision making: 22000201 김한욱 Collaboration: 22000075 김민수 Self-management: 22000204 김현욱
+Group 4 :
+22000075 김민수, 22000201 김한욱, 22000204 김현욱, 22000282 박예은 
+:
+Team leader: 22000075 김민수 
+Communication: 22000282 박예은
+Decision making: 22000201 김한욱
+Collaboration: 22000075 김민수
+Self-management: 22000204 김현욱
  
 # Team Charter
 공학설계입문 Group 4
