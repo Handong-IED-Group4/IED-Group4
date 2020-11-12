@@ -1,17 +1,12 @@
 # IED-Group4 Introduction
- We're ---
+ 공학설계입문 Group 4
+
+Group 4 22000075 김민수, 22000201 김한욱, 22000204 김현욱, 22000282 박예은 
+Team leader: 22000075 김민수 Communication: 22000282 박예은 Decision making: 22000201 김한욱 Collaboration: 22000075 김민수 Self-management: 22000204 김현욱
  
 # Team Charter
 공학설계입문 Group 4
- 
-Group 4
-22000075 김민수, 22000201 김한욱, 22000204 김현욱, 22000282 박예은
-Team leader: 22000075 김민수
-Communication: 22000282 박예은
-Decision making: 22000201 김한욱
-Collaboration: 22000075 김민수
-Self-management: 22000204 김현욱
- 
+
 HGU 공학설계 입문 Group 4
 Team Charter
 이 문서는 한동대학교 학생들이 공학설계입문 수업을 들으면서 팀 활동을 하기 위해 필요한 몇가지 정보들을 담고 있다. 공학설계입문 수업 교수님은 이원형 교수님이시다. 이 팀 활동은 이번학기 동안 진행될 예정이다.
