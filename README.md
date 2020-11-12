@@ -17,11 +17,8 @@ Collaboration: 22000075 김민수
 Self-management: 22000204 김현욱
  
 # Team Charter
-공학설계입문 Group 4
-
 HGU 공학설계 입문 Group 4
 
-Team Charter
 
        이 문서는 한동대학교 학생들이 공학설계입문 수업을 들으면서 팀 활동을 하기 위해 필요한 몇가지 정보들을 담고 있다.
        
