@@ -34,16 +34,16 @@ The goals of HGU:
 1.     학생들이 팀 활동을 하는데 어려움이 없도록 지원 해준다.
 2.     학업뿐만 아니라 인성교육에도 힘쓴다.
 
-Resource Limits
+Resource Limits:
 1.     Group 4는 일주일에 평균 5시간정도 모여 공학설계입문 수업에 대해 토의한다. 
 2.     한동대학교는 학생들이 그룹 토의를 하는데 필요한 자원과 돈을 충분히 제공해준다.
 
-Deliverables
+Deliverables:
        교수님이 원하시는 방향에 맞게 과제를 제출한다
        수업 시간에 배운 내용을 토대로 알맞은 결과물을 도출한다.
 
 
-Other restrictions or Information
+Other restrictions or Information:
        학생들은 어떤 활동을 하던지 안전을 최우선으로 생각한다. 
        그룹 모임이 있을때마다 모든 조원이 성실히 참여한다.
 
