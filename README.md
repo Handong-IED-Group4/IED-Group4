@@ -6,10 +6,14 @@ Group 4 :
 
 
 
-Team leader: 22000075 김민수 
+Team leader: 22000075 김민수
+
 Communication: 22000282 박예은
+
 Decision making: 22000201 김한욱
+
 Collaboration: 22000075 김민수
+
 Self-management: 22000204 김현욱
  
 # Team Charter
