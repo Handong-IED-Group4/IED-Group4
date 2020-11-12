@@ -64,4 +64,5 @@ Other restrictions or Information:
 온라인의 특성상 네트워크 연결이 온전하지 못할 경우 프로젝트를 진행하는데에 어려움이 생긴다.
 
 # Team Presentation Video 
-https://youtu.be/gG5fve6AzOc?t=4860
+  
+ [![Video Label](http://img.youtube.com/vi/gG5fve6AzOc?/0.jpg)]https://youtu.be/gG5fve6AzOc?t=4860)
