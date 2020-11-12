@@ -63,3 +63,4 @@ Other restrictions or Information:
 조원들의 적극성이 떨어지다보니 결과물의 완성도도 떨어지는 경향이 있다.
 온라인의 특성상 네트워크 연결이 온전하지 못할 경우 프로젝트를 진행하는데에 어려움이 생긴다.
 
+# Team Presentation Video 
