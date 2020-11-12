@@ -65,4 +65,4 @@ Other restrictions or Information:
 
 # Team Presentation Video 
   
- [![Video Label](http://img.youtube.com/vi/gG5fve6AzOc?/0.jpg)]https://youtu.be/gG5fve6AzOc?t=4860)
+ [![Presentation](http://img.youtube.com/vi/gG5fve6AzOc/0.jpg)]https://youtu.be/gG5fve6AzOc?t=4862)
